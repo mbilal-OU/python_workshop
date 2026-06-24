@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+data/*.png
+data/test_*.csv
+data/sequence_stats.csv
+data/analysis_results.csv
+data/genes.fasta
+data/test_sequences.fasta
+data/survival_data.csv
